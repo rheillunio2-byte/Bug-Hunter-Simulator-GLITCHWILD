@@ -20,8 +20,6 @@ This project combines programming education with game-inspired mechanics, intera
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 <table>
   <tr>
     <td align="center">
