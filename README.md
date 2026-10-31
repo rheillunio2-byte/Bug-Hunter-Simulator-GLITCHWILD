@@ -25,7 +25,7 @@ This project combines programming education with game-inspired mechanics, intera
 <table>
   <tr>
     <td align="center">
-      <img src="images/Bug-Hunt.PNG" width="400" alt="Bug Hunter Simulator Bug Hunt">
+      <img src="images/Bug Hunt.PNG" width="400" alt="Bug Hunter Simulator Bug Hunt">
       <br>
       <b>Bug Hunt</b>
     </td>
@@ -37,7 +37,7 @@ This project combines programming education with game-inspired mechanics, intera
   </tr>
   <tr>
     <td align="center">
-      <img src="images/Stats-&-Progress.PNG" width="400" alt="Bug Hunter Simulator Stats and Progress">
+      <img src="images/Stats & Progress.PNG" width="400" alt="Bug Hunter Simulator Stats and Progress">
       <br>
       <b>Stats &amp; Progress</b>
     </td>
@@ -298,7 +298,7 @@ Bug Hunter Simulator is an independent educational coding game project created t
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/rheillunio2-byte/Bug-Hunter-Simulator-GLITCHWILD?tab=MIT-1-ov-file) file for details.
 
 ---
 
